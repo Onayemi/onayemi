@@ -6,7 +6,7 @@ About me
 
 Passionate Software Engineer with over eight years of commercial experience, dedicated to the art of app dvelopement and pursuit of software craftsmanship. My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software developemnt. Now I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my remlex Youtube channel. Join me as we unlock the potential of technology together. <br/> Stay tuned for what's to come, and don't forget to check out my YouTube channel for a deeper div into the world of coding and software craftsmanship!
 
-### Skills
+### Digital Craftsmans & Education
 * 🌍  I'm based in Lagos Nigeria
 * 🖥️  See my portfolio at [onayemi](http://github.com/onayemi)
 * ✉️  You can contact me at [onayemi.samuel@remlextech.com](mailto:onayemi.samuel@remlextech.com) (mailto:remlextech@gmail.com)
