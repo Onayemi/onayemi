@@ -8,7 +8,7 @@ Passionate Software Engineer with over eight years of commercial experience, ded
 
 * 🌍  I'm based in Lagos Nigeria
 * 🖥️  See my portfolio at [onayemi](http://github.com/onayemi)
-* ✉️  You can contact me at [onayemi.samuel@remlextech.com](mailto:onayemi.samuel@remlextech.com)
+* ✉️  You can contact me at [onayemi.samuel@remlextech.com](mailto:onayemi.samuel@remlextech.com) (mailto:remlextech@gmail.com)
 * 🚀  I'm currently working on [Fullstack App on TrivCollector](http://remlextech.com/trivcollector)
 * 🧠  I'm learning Nest.js,
 * 🤝  I'm open to collaborating on React Native Mobile App and Next.js, Laravel Inertia React
