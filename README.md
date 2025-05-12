@@ -1,11 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Onayemi Samuel
 ======================================================================================================================================
 
-About me
-------------------
-
-Passionate Software Engineer with over eight years of commercial experience, dedicated to the art of app dvelopement and pursuit of software craftsmanship. My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software developemnt. Now I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my remlex Youtube channel. Join me as we unlock the potential of technology together. <br/> Stay tuned for what's to come, and don't forget to check out my YouTube channel for a deeper div into the world of coding and software craftsmanship!
-
 ### Digital Craftsmans & Education
 * 🌍  I'm based in Lagos Nigeria
 * 🖥️  See my portfolio at [onayemi](http://github.com/onayemi)
@@ -18,6 +13,13 @@ Passionate Software Engineer with over eight years of commercial experience, ded
 src="https://img.shields.io/github/followers/onayemi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/remlextech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/remlextech?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+About me
+------------------
+
+Passionate Software Engineer with over eight years of commercial experience, dedicated to the art of app dvelopement and pursuit of software craftsmanship. My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software developemnt. Now I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my remlex Youtube channel. Join me as we unlock the potential of technology together. <br/> Stay tuned for what's to come, and don't forget to check out my YouTube channel for a deeper div into the world of coding and software craftsmanship!
+
+
 
 ### Skills
 
